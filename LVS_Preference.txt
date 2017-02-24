@@ -1,0 +1,5 @@
+test:false
+print:true
+single_hand:true
+left_style:false
+zclick:true
